@@ -74,12 +74,6 @@ $(window).on('load', function() {
 		mainClass: 'img-popup-warp',
 		removalDelay: 400,
    });
-   $('.portfolio-item').magnificPopup({
-		type: 'image',
-		mainClass: 'img-popup-warp',
-		removalDelay: 400,
-   });
-
 
 	/*------------------
 		Accordions
